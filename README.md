@@ -1,4 +1,7 @@
 # Prerequisites
+## System Updates
+Install any system updates that may be pending
+
 ## Install Brew
 Type: Command+Spacebar and type in 'Terminal' and paste the following:
 ```
